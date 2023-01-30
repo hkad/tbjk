@@ -1,0 +1,274 @@
+﻿
+{
+"spider":"https://download.kstore.space/download/3376/1128.jar;md5;6A92E85399922FF0FD7813BBC2F09957",
+
+
+
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L2xpdmUudHh0"]}]}],
+
+
+"sites":[
+
+{"key":"csp_biubiu_鍥涜檸褰遍櫌","name":"*馃敒鍥涜檸褰遍櫌(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/42847/%E5%9B%9B%E8%99%8E%E5%BD%B1%E9%99%A2.json?sign=zwsM2CHQiQTJX443ZPGi1O_y6dKZEx1uvM27wRSRg_8%3D%3A0"},
+{"key":"(18+)SS璧勬簮","name":"*馃敒SS璧勬簮","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"(18+)JAV鍚嶄紭","name":"*馃敒JAV鍚嶄紭","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"(18+)绉€鑹茶祫婧�","name":"馃敒绉€鑹茶祫婧�","type":0,"api":"https://api.xiuseapi.com/api.php/provide/vod/at/xml","playUrl":"https://player.leyuzy.net/?url=","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"绮惧伐鍘�","name":"馃敒绮惧伐鍘�","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"91md","name":"馃悶91楹昏眴","type":1,"api":"https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"褰卞簱璧勬簮","name":"馃敒褰卞簱璧勬簮","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"閫熸挱","name":"馃敒閫熸挱","type":1,"api":"https://api.suboapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"缇庡皯濂�","name":"馃敒缇庡皯濂�","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"鐐圭偣","name":"馃敒浜戞槦鏃ヨ","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"灞屼笣","name":"馃敒灞屼笣","type":0,"api":"https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"鍝ュ摜濡瑰","name":"馃敒鍝ュ摜濡瑰","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"*CK璧勬簮","name":"馃敒CK璧勬簮","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鍗氬ぉ鍫�","name":"馃敒鍗氬ぉ鍫�","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鐧藉珫璧勬簮","name":"馃敒鐧藉珫璧勬簮","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp028","name":"zp028","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp020","name":"馃敒zp020","type":0,"api":"http://m.7777688.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鑹茶壊璧勬簮","name":"馃敒鑹茶壊璧勬簮","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鐐圭偣濞变箰","name":"馃敒鐐圭偣濞变箰","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*娣按鏈鸿祫婧�","name":"馃敒娣按鏈�","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*灏忔箍濡硅祫婧�","name":"馃敒灏忔箍濡�","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*棣欏ザ鍎胯祫婧�","name":"馃敒棣欏ザ鍎�","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"閰疯眴閲囬泦","name":"馃敒閰疯眴","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/?ac=list","playUrl":"https://jx.kubohk.com/jx/?url=","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鑹插睂涓濊祫婧�","name":"馃敒*鑹插睂涓濊祫婧�","type":0,"api":"http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"绉€鑹查噰闆�","name":"馃敒绉€鑹瞐v","type":0,"api":"https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/","playUrl":"https://api.xiusebf.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"鐖辨挱閲囬泦","name":"馃敒鐖辨挱av","type":1,"api":"https://cj.apiabzy.com/api.php/provide/vod/?ac=list","playUrl":"https://player.aibozyplayer.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"濂惰尪閲囬泦","name":"馃敒濂惰尪av","type":0,"api":"https://caiji.naichaapi.com/inc/api.php","playUrl":"https://jiexi.naichaapi.com/?url=","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"澶у湴閲囬泦","name":"馃敒澶у湴av","type":0,"api":"https://dadiapi.com/apple_m3u8.php","playUrl":"https://play.dadiapi.com/watch?url=","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp157","name":"馃敒鐔婄尗璧勬簮","type":0,"api":"http://jcspcj8.com/api?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*瀛楀箷缃�","name":"*馃敒瀛楀箷缃�","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鍜挭璧勬簮","name":"馃敒鍜挭璧勬簮","type":0,"api":"http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp116","name":"娉¤姍璧勬簮","type":0,"api":"http://zmcj88.com/api?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*灏忓濮愯祫婧�","name":"馃敒灏忓濮愯祫婧�","type":0,"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*绮惧伐鍘傝祫婧�","name":"馃敒绮惧伐鍘傝祫婧�","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鑽夋Υ瑙嗛","name":"馃敒鑽夋Υ瑙嗛","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*52AVAV","name":"馃敒52AVAV","type":0,"api":"https://52zyapi.com/home/cjapi/asda/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp067","name":"馃敒鐜簹璧勬簮-鏃犵爜","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*澶M璧勬簮","name":"馃敒澶M璧勬簮","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*閰蜂鸡鐞�","name":"馃敒閰蜂鸡鐞�","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*涓囧奖鑹�","name":"馃敒涓囧奖鑹�","type":1,"api":"https://wanying4.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*缇庡皯濂宠祫婧�","name":"馃敒缇庡皯濂宠祫婧�","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鐜栫帠璧勬簮","name":"馃敒鐜栫帠璧勬簮","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*涔呰崏璧勬簮","name":"馃敒涔呰崏璧勬簮","type":0,"api":"http://jcspcj8.com/api?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鐙煎皯骞�","name":"馃敒鐙煎皯骞�","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鍒╂潵璧勬簮","name":"馃敒鍒╂潵璧勬簮","type":0,"api":"http://llzxcj.com/inc/sck.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*浣充附璧勬簮","name":"馃敒浣充附璧勬簮","type":1,"api":"http://www.jializyzapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp128","name":"馃敒椴ㄩ奔褰辫","type":0,"api":"https://shayuapi.com/api.php/Seacms/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*閫熷害璧勬簮","name":"馃敒閫熷害璧勬簮","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*KK鍐欑湡璧勬簮","name":"馃敒KK鍐欑湡璧勬簮-浼︾悊","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp024","name":"馃敒BT澶╁爞-浼︾悊","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp011","name":"馃敒78涔愭挱","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp059","name":"馃敒鐣彿璧勬簮","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*瀵屼簩浠ｈ祫婧�","name":"馃敒瀵屼簩浠ｈ祫婧�","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp066","name":"馃敒鑺辨璧勬簮","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp099","name":"馃敒鑰侀腑璧勬簮","type":0,"api":"https://apihjzy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp134","name":"馃敒閫熸挱璧勬簮","type":0,"api":"http://api.suboapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*涓€鏈亾璧勬簮","name":"馃敒涓€鏈亾璧勬簮","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*椴嶉奔AV","name":"馃敒椴嶉奔AV","type":0,"api":"http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鏃ユ湰AV鍦ㄧ嚎","name":"馃敒鏃ユ湰AV鍦ㄧ嚎","type":0,"api":"https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*涔呬箙鐑湪绾�","name":"馃敒涔呬箙鐑湪绾�","type":0,"api":"https://www.caiji06.com/home/cjapi/cfbb/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*闈掗潚鑽夎棰�","name":"馃敒闈掗潚鑽夎棰�","type":0,"api":"https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*涓濊璧勬簮","name":"馃敒涓濊璧勬簮","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*楹昏眴瑙嗛","name":"馃敒楹昏眴瑙嗛","type":0,"api":"https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*浜氭床鎴愪汉鍦ㄧ嚎","name":"馃敒浜氭床鎴愪汉鍦ㄧ嚎","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*澶╁櫆鍟﹁祫婧�","name":"馃敒澶╁櫆鍟﹁祫婧�","type":0,"api":"http://www.987caiji.com/api/max.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*010鐖辫祫婧�","name":"馃敒010鐖辫祫婧�","type":0,"api":"http://www.010aizy.com/API/macs.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鐖辨搷璧勬簮","name":"馃敒鐖辨搷璧勬簮","type":1,"api":"https://aicaozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp100","name":"馃敒涔愭挱","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鑺遍瓉璧勬簮","name":"馃敒鑺遍瓉璧勬簮","type":1,"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*澶滃鎾歌祫婧�","name":"馃敒澶滃鎾歌祫婧�","type":0,"api":"https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*AV闆嗕腑娣�","name":"馃敒AV闆嗕腑娣�","type":0,"api":"https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*榛勭摐TV璧勬簮","name":"馃敒榛勭摐TV璧勬簮","type":0,"api":"https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*蹇挱鐩掑瓙璧勬簮","name":"馃敒蹇挱鐩掑瓙璧勬簮","type":0,"api":"https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*澶ч钑夎祫婧�","name":"馃敒澶ч钑夎祫婧�","type":0,"api":"https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"523閲囬泦","name":"523av","type":0,"api":"https://caiji.523zyw.com/inc/api.php","playUrl":"https://api.523zyw.com/?url=","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鎴戣鍟暘","name":"馃敒鎴戣鍟暘","type":0,"api":"http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*4000璧勬簮","name":"馃敒4000璧勬簮","type":1,"api":"https://www.4000zy.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*澶у睂涓濊祫婧�","name":"馃敒澶у睂涓濊祫婧�","type":0,"api":"http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*姘磋湝妗�","name":"馃敒姘磋湝妗�","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鑽夎帗璧勬簮","name":"馃敒鑽夎帗璧勬簮锛堟參锛�","type":1,"api":"https://caiji.caomeiapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"zp123","name":"馃敒鑹茬尗璧勬簮锛堟參锛�","type":0,"api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鑹茬獫璧勬簮","name":"馃敒鑹茬獫璧勬簮-鎱�","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"zp137","name":"馃敒鎺㈡帰璧勬簮锛堟參锛�","type":0,"api":"https://apittzy.com/api.php/provide/vod/at/xml/","playUrl":"https://jiexi.ttbfp1.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鐖辩湅璧勬簮","name":"馃敒鐖辩湅璧勬簮锛堟參锛�","type":1,"api":"http://www.aikanzyz9.com/inc/apijson_vod.php","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"*钁¤悇璧勬簮","name":"馃敒钁¤悇璧勬簮-鎱�","type":1,"api":"https://api.putaozy.net/inc/apijson_vod.php","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"2345_spider","name":"2345锛堜互涓嬮噸澶嶏級","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/xuexing007/cs/raw/master/2345.bmp"},
+{"key":"zp029","name":"馃敒JAV鍚嶄紭","type":0,"api":"http://mygzycj.com/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*JAV鍚嶄紭棣�","name":"馃敒JAV鍚嶄紭棣�","type":0,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"*AVZY6888璧勬簮","name":"馃敒AVZY6888璧勬簮","type":1,"api":"http://m.7777688.com/inc/apijson.php","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"zp125","name":"馃敒AVZY6888璧勬簮","type":0,"api":"http://m.7777688.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp068","name":"馃敒鐜簹璧勬簮","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp126","name":"馃敒鑹茶壊璧勬簮","type":0,"api":"http://secj8.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp129","name":"馃敒椴ㄩ奔璧勬簮","type":0,"api":"https://shayuapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp127","name":"馃敒鑹茶壊璧勬簮","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp085","name":"馃敒鐜栫帠璧勬簮","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp061","name":"馃敒瀵屼簩浠ｈ祫婧�","type":0,"api":"http://f2dcj6.com/sapi/?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*閫熸挱璧勬簮","name":"*馃敒閫熸挱璧勬簮","type":1,"api":"https://api.suboapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"zp143","name":"馃敒澶╁爞绂忓埄","type":0,"api":"https://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*閰疯眴璧勬簮","name":"*馃敒閰疯眴璧勬簮","type":1,"api":"https://kudouzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*閰疯眴2","name":"馃敒閰疯眴2","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*绉€鑹茶祫婧�","name":"馃敒绉€鑹茶祫婧�","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*鐖辨挱璧勬簮","name":"馃敒鐖辨挱璧勬簮","type":1,"api":"https://cj.apiabzy.com/api.php/provide/vod/","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"*濂惰尪璧勬簮","name":"馃敒濂惰尪璧勬簮","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"zp124","name":"馃敒鑹茬尗璧勬簮","type":0,"api":"https://api.maozyapi.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp053","name":"馃敒澶у湴璧勬簮","type":0,"api":"https://dadiapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*澶у湴璧勬簮","name":"馃敒澶у湴璧勬簮","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"*椴ㄩ奔璧勬簮","name":"馃敒椴ㄩ奔璧勬簮","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*涔愭挱璧勬簮","name":"馃敒涔愭挱璧勬簮","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"zp136","name":"馃敒閫熷害璧勬簮","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp065","name":"馃敒鑺辨,","type":0,"api":"https://apihjzy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"zp098","name":"馃敒鑰侀腑璧勬簮","type":0,"api":"http://laoyazy.vip/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0}
+
+],
+
+
+
+"parses": [
+{"name": "解析聚合","type": 3,"url": "Demo"},
+{"name": "Json并发","type": 2,"url": "Parallel"}, 
+{"name": "Json轮询","type": 2,"url": "Sequence"}, 
+{"name": "GGTV快速","type": 1,"url": "https://www.hnjiexi.com/m3u8/?url="}, 
+{"name": "OKjx综合","type": 0,"url": "https://www.hongniujiexi.com/m3u8/?url="}
+],
+
+"flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
+	"ijk": [{
+		"group": "软解码",
+		"options": [{
+			"category": 4,
+			"name": "opensles",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "overlay-format",
+			"value": "842225234"
+		}, {
+			"category": 4,
+			"name": "framedrop",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "soundtouch",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "start-on-prepared",
+			"value": "1"
+		}, {
+			"category": 1,
+			"name": "http-detect-range-support",
+			"value": "0"
+		}, {
+			"category": 1,
+			"name": "fflags",
+			"value": "fastseek"
+		}, {
+			"category": 2,
+			"name": "skip_loop_filter",
+			"value": "48"
+		}, {
+			"category": 4,
+			"name": "reconnect",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "enable-accurate-seek",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "mediacodec",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "mediacodec-auto-rotate",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "mediacodec-handle-resolution-change",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "mediacodec-hevc",
+			"value": "0"
+		}, {
+			"category": 1,
+			"name": "dns_cache_timeout",
+			"value": "600000000"
+		}]
+	}, {
+		"group": "硬解码",
+		"options": [{
+			"category": 4,
+			"name": "opensles",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "overlay-format",
+			"value": "842225234"
+		}, {
+			"category": 4,
+			"name": "framedrop",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "soundtouch",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "start-on-prepared",
+			"value": "1"
+		}, {
+			"category": 1,
+			"name": "http-detect-range-support",
+			"value": "0"
+		}, {
+			"category": 1,
+			"name": "fflags",
+			"value": "fastseek"
+		}, {
+			"category": 2,
+			"name": "skip_loop_filter",
+			"value": "48"
+		}, {
+			"category": 4,
+			"name": "reconnect",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "enable-accurate-seek",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "mediacodec",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "mediacodec-auto-rotate",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "mediacodec-handle-resolution-change",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "mediacodec-hevc",
+			"value": "1"
+		}, {
+			"category": 1,
+			"name": "dns_cache_timeout",
+			"value": "600000000"
+		}]
+	}],
+
+
+
+
+
+
+"wallpaper":"http://52bsj.vip:82/late",
+
+
+"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
+}
