@@ -4,7 +4,7 @@
             "key": "5566",
             "name": "官方影视",
             "type": 1,
-            "api": "https://caiji.5566ziyuan.com/api.php/provide/vod/?ac=list",
+            "api": "http://cj.xiaomaomi.tv/api.php/provide/vod/at/json/",
             "playUrl": "https://jx.xmflv.com/?url=",
             "searchable": 1,
             "quickSearch": 1,
