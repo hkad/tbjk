@@ -14,7 +14,7 @@
       "key": "5566",
       "name": "5566",
       "type": 0,
-      "api": "https://caiji.5566ziyuan.com/api.php/provide/vod/",
+      "api": "https://caiji.5566ziyuan.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://jx.5566jiexi.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
