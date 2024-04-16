@@ -1,6 +1,26 @@
 {
   "sites": [
     {
+      "key": "liangzi",
+      "name": "量子",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
+      "playUrl": "http://cs.baileso.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "feifan",
+      "name": "非凡",
+      "type": 0,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
+      "playUrl": "http://cs.baileso.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "huohua",
       "name": "火花",
       "type": 1,
@@ -26,26 +46,6 @@
       "type": 0,
       "api": "https://zzdj.cc/api.php/provide/vod/",
       "playUrl": "https://player.zzdj.cc/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "liangzi",
-      "name": "量子",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
-      "playUrl": "http://cs.baileso.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "feifan",
-      "name": "非凡",
-      "type": 0,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
-      "playUrl": "http://cs.baileso.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
